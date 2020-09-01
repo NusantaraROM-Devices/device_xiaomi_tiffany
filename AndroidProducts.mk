@@ -14,4 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_tiffany.mk
+    $(LOCAL_DIR)/nad_tiffany.mk
+COMMON_LUNCH_CHOICES := \
+    nad_tiffany-user \
+    nad_tiffany-userdebug \
+    nad_tiffany-eng
