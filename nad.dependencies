@@ -13,7 +13,7 @@
   },
   {
     "remote":"github",
-    "repository":"BLIBWU/android_vendor_xiaomi_tiffany",
+    "repository":"NusantaraROM-Devices/vendor_xiaomi_tiffany",
     "target_path":"vendor/xiaomi",
     "branch":"ten"
   },
@@ -21,7 +21,7 @@
    "remote":"github",
     "repository":"BLIBWU/android_kernel_xiaomi_moun",
     "target_path":"kernel/xiaomi/moun",
-    "branch":"derp10"
+    "branch":"ten-tiffany"
   },
   {
    "remote":"github",
